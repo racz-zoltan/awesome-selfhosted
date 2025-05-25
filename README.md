@@ -1551,6 +1551,7 @@ A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows user
 
 - [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
 - [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with a webapp, browser extension, and mobile app. ([Source Code](https://github.com/bitwarden/server)) `AGPL-3.0` `Docker/C#`
+- [CarryPass](https://carrypass.net) - Zero-knowledge, offline-first password manager built as a PWA with deterministic password generation and AES-encrypted vaults. No server required. ([Source Code](https://github.com/racz-zoltan/racz-zoltan.github.io)) `MIT` `JavaScript`
 - [Passbolt](https://www.passbolt.com/) - Collaborative password manager. ([Source Code](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 - [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Docker/Django`
 - [Passky](https://passky.org) - Simple and modern password manager with website, browser extension, android and desktop application. ([Demo](https://vault.passky.org), [Source Code](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP/Docker`
